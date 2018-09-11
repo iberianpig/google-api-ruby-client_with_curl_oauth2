@@ -1,0 +1,11 @@
+# Dont fix
+export CLIENT_ID=
+export CLIENT_SECRET=
+export REDIRECT_URI=
+export SCOPE=
+
+# need to rewrite
+export AUTHORIZATION_CODE=
+export ACCESS_TOKEN=
+export REFRESH_TOKEN=
+
